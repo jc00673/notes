@@ -20,4 +20,6 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  app_title: My Notes
+  app_description: A place where you can keep all of your notes
   hello: "Hello world"
